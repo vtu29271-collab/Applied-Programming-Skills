@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
