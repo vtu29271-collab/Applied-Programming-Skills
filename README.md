@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1185-day-of-the-week](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1185-day-of-the-week) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
 |  |
