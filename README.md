@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
