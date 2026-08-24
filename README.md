@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
