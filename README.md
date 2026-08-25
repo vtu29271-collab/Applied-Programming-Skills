@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Floyd's Cycle Finding Algorithm
@@ -135,10 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [1603-design-parking-system](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
