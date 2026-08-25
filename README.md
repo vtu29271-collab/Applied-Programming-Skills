@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [1603-design-parking-system](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Bracket Sequences
 |  |
