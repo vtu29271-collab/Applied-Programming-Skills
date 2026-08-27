@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1396-design-underground-system](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1396-design-underground-system](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 ## Queue
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
+| [1396-design-underground-system](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/vtu29271-collab/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
